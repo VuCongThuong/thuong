@@ -80,7 +80,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
                 <div class="subheading mb-5">THÁI ĐỘ hơn
                     <a href="#">Trình Độ</a>
                 </div>
-                <p class="mb-5" style="max-width: 500px;">Tôi có kinh nghiệm trong việc tận dụng sự nhanh nhẹn của một Quân Nhân để hoàn thành công việc một cách nhanh chóng và chính xác.
+                <p class="mb-5" style="max-width: 500px;">Áp dụng kinh nghiệm trong việc tận dụng sự nhanh nhẹn của một Quân Nhân để hoàn thành công việc một cách nhanh chóng và chính xác.
                     <br />
                     <strong>KỶ LUẬT là sức mạnh của Quân Đội</strong> </p>
                 <ul class="list-inline list-social-icons mb-0">

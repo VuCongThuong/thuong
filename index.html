@@ -80,7 +80,7 @@ License URL: https://creativecommons.org/licenses/by/4.0/
                 <div class="subheading mb-5">Aptitude or
                     <a href="#">Attitude</a>
                 </div>
-                <p class="mb-5" style="max-width: 500px;">I have experience in leveraging the agile frameworks of a soldier to get the job done quickly and accurately.
+                <p class="mb-5" style="max-width: 500px;">Apply the experience in leveraging the agile frameworks of a soldier to get the job done quickly and accurately.
                     <br />
                     <strong>Discipline is the power of the defense force</strong> </p>
                 <ul class="list-inline list-social-icons mb-0">
