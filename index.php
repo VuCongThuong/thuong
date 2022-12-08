@@ -80,9 +80,10 @@ License URL: https://creativecommons.org/licenses/by/4.0/
                 <div class="subheading mb-5">Aptitude or
                     <a href="#">Attitude</a>
                 </div>
-                <p class="mb-5" style="max-width: 500px;">Apply the experience in leveraging the agile frameworks of a soldier to get the job done quickly and accurately.
+                <p class="mb-5" style="max-width: 500px;">Apply the experiences to get the job done quickly and accurately.
                     <br />
-                    <strong>Discipline is the power of the defense force</strong> </p>
+<!--                    <strong>Discipline is the power of the defense force</strong> -->
+                </p>
                 <ul class="list-inline list-social-icons mb-0">
                     <li class="list-inline-item">
                         <a class="nav-link js-scroll-trigger" href="#contact">
@@ -145,27 +146,24 @@ License URL: https://creativecommons.org/licenses/by/4.0/
                 <div class="resume-item col-md-6 col-sm-12">
                     <div class="card mx-0 p-4 mb-5" style="border-color: #ffc107; box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.21);">
                         <div class="resume-content mr-auto">
-                            <h4 class="mb-3"><i class="fa fa-laptop mr-3 text-warning"></i> To Enlist</h4>
-                            <p>Performing military service is the duty of every citizen. Fortunately, I have learned a lot of soft skills for myself such as adaptability, problem-solving, punctuality, teamwork and collaboration. I am proud to be a second
-                                lieutenant reserve officer. I believe, the above characteristics that will help me in my work.
-                            </p>
+                            <h4 class="mb-3"><i class="fa fa-laptop mr-3 text-warning"></i> Backend Developer</h4>
+                            <p>With a passion for technology and foreign knowlegde, I have been constantly learning through online courses with the desire to become a professional website programmer.</p>
                         </div>
                         <div class="resume-date text-md-right">
-                            <span class="text-primary">February 2019 - May 2021</span>
+                            <span class="text-primary">December 2019 - Now</span>
                         </div>
                     </div>
                 </div>
-                <div class="resume-item col-md-6 col-sm-12">
-                    <div class="card mx-0 p-4 mb-5" style="border-color: #28a745; box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.21);">
-                        <div class="resume-content mr-auto">
-                            <h4 class="mb-3"><i class="fa fa-camera mr-3 text-success"></i> Web Designer</h4>
-                            <p>During the Covid-19 pandemic. With a passion for technology, I have been constantly learning through online courses with the desire to become a professional website programmer.</p>
-                        </div>
-                        <div class="resume-date text-md-right">
-                            <span class="text-primary">July 2021 - Now</span>
-                        </div>
-                    </div>
-                </div>
+<!--                <div class="resume-item col-md-6 col-sm-12">-->
+<!--                    <div class="card mx-0 p-4 mb-5" style="border-color: #28a745; box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.21);">-->
+<!--                        <div class="resume-content mr-auto">-->
+<!--                            <h4 class="mb-3"><i class="fa fa-camera mr-3 text-success"></i> Web Designer</h4>-->
+<!--                        </div>-->
+<!--                        <div class="resume-date text-md-right">-->
+<!--                            <span class="text-primary">July 2021 - Now</span>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
                 <!-- <div class="resume-item col-md-6 col-sm-12">
                     <div class="card mx-0 p-4 mb-5" style="border-color: #2196f3; box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.21);">
                         <div class="resume-content mr-auto">
@@ -355,10 +353,10 @@ License URL: https://creativecommons.org/licenses/by/4.0/
                     <div class="award">
                         <div class="award-icon"></div>
                         <div class="award-content">
-                            <span class="date">Feb 2019 - May 2021</span>
-                            <h5 class="title">The second University for soft skills</h5>
+                            <span class="date">Mar 2019 - Dec 2019</span>
+                            <h5 class="title">Udemy</h5>
                             <p class="description">
-                                Trained as a reserve officer at Ha Si Quan Xe Tang 1 School of the Tank - Armour force
+                                Learning extreme programming so I can create IZCMS after courses
                             </p>
                         </div>
                     </div>
